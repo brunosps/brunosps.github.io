@@ -868,7 +868,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 900px;
   position: relative;
 }
 
@@ -1181,6 +1181,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
+  width: 760px;
 }
 
 .header-page {
@@ -1210,10 +1211,15 @@ a.newer-posts:hover {
   overflow: hidden;
 }
 
-.page-cover-image .page-image {
-  width: 100%;
-  height: 100%;
+.page-cover-image {
+  text-align: center;
 }
+
+.page-cover-image .page-image {
+  width: 80%;
+}
+
+
 
 .page-footer {
   display: -webkit-box;
@@ -1395,7 +1401,7 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
   .content-box {
-    padding: 20px 10px;
+    padding: 20px 250px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
