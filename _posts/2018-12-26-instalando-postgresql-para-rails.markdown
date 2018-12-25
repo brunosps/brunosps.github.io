@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Instalando e configurando Postgresql para Rails
-date: 2018-12-25 19:00:00 -0300
-description:  # Add post description (optional)
+date: 2018-12-26 09:00:00 -0300
+description:  Como instalar postgresql para aplicação rails# Add post description (optional)
 img: 2018-12-26/capa.png # Add image post (optional)
 imgpost: 2018-12-26/capa.png # Add image post (optional)
 tags: [Ubuntu, Mint, VsCode]

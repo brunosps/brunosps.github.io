@@ -2,7 +2,7 @@
 layout: post
 title: Instalando VsCode Linux Mint(18.03)
 date: 2018-12-25 19:00:00 -0300
-description:  # Add post description (optional)
+description:  Como instalar VsCode no Linux Mint# Add post description (optional)
 img: 2018-12-25/capa.png # Add image post (optional)
 imgpost: 2018-12-25/capa.png # Add image post (optional)
 tags: [Ubuntu, Mint, VsCode]
